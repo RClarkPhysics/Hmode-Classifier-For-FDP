@@ -19,7 +19,7 @@ Result of Ensemble Model on Randomized Shot Data:
 <img width="422" height="222" alt="Screenshot 2026-06-04 at 6 19 57 PM" src="https://github.com/user-attachments/assets/5eedeca8-6f3d-4b4b-8441-1952994ee871" />
 
 Version Control\
-Successful Regression Tests conducted using the following software environment:\
+Successful Regression Tests were conducted using the following software environment:\
 Python - 3.11.15
 NumPy - 1.26.4\
 Scikit-Learn - 1.9.0\
@@ -28,12 +28,12 @@ toksearch - 2.8.0\
 toksearch_d3d - 0.9.8
 
 Version Guidance\
-Note that only the Regression Test version has been tested to work, while we think these version are sufficient for succesful performance, they haven't been rigorously tested\
+Note that only the Regression Test version has been tested to work, while we expect that these versions are compatible, they haven't been rigorously tested\
 Python - Version 3.11-3.13 reccomended\
 NumPy - Version >= 1.26.0 reccomended\
 Scikit-Learn - Version >= 1.9 reccomended\
 ONNXRuntime - must support ONNX opset 17\
-toksearch/toksearch_d3d - so long as the data is still able to be pulled and the formatting is consistent, version shouldn't matter (Should version control matter, please alert the dev to update this toolkit to be compatible with the most up to date version of toksearch/FDP)
+toksearch/toksearch_d3d - so long as the data is still able to be pulled and the formatting is consistent, the tool is expected to work with any future version (Should version control matter, please report this issue to initiate an update this toolkit to be compatible with the most up to date version of toksearch/FDP)
 
 References:  
 Clark, Randall, et al. "Plasma confinement state classification in fusion power plants: Profile reflectometer and ensemble diagnostics." Nuclear Fusion (2026).  
