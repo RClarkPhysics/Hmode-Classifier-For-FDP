@@ -28,6 +28,7 @@ toksearch - 2.8.0\
 toksearch_d3d - 0.9.8
 
 Version Guidance\
+Note that only the Regression Test version has been tested to work, while we think these version are sufficient for succesful performance, they haven't been rigorously tested\
 Python - Version 3.11-3.13 reccomended\
 NumPy - Version >= 1.26.0 reccomended\
 Scikit-Learn - Version >= 1.9 reccomended\
