@@ -26,10 +26,10 @@ ONNXRuntime - 1.26.0\
 toksearch - 2.8.0\
 toksearch_d3d - 0.9.8
 
-Version Guidance
-NumPy - 
-Scikit-Learn - 
-ONNXRuntime - must support ONNX opset 17
+Version Guidance\
+NumPy - Version >= 1.26.0 reccomended\
+Scikit-Learn - Version >= 1.9 reccomended\
+ONNXRuntime - must support ONNX opset 17\
 toksearch/toksearch_d3d - so long as the data is still able to be pulled and the formatting is consistent, version shouldn't matter (Should version control matter, please alert the dev to update this toolkit to be compatible with the most up to date version of toksearch/FDP)
 
 References:  
