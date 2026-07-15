@@ -19,7 +19,8 @@ Result of Ensemble Model on Randomized Shot Data:
 <img width="422" height="222" alt="Screenshot 2026-06-04 at 6 19 57 PM" src="https://github.com/user-attachments/assets/5eedeca8-6f3d-4b4b-8441-1952994ee871" />
 
 Version Control\
-Successful Regression Tests conducted at the following Versions:\
+Successful Regression Tests conducted using the following software environment:\
+Python - 3.11.15
 NumPy - 1.26.4\
 Scikit-Learn - 1.9.0\
 ONNXRuntime - 1.26.0\
@@ -27,6 +28,7 @@ toksearch - 2.8.0\
 toksearch_d3d - 0.9.8
 
 Version Guidance\
+Python - Version 3.11-3.13 reccomended\
 NumPy - Version >= 1.26.0 reccomended\
 Scikit-Learn - Version >= 1.9 reccomended\
 ONNXRuntime - must support ONNX opset 17\
